@@ -1,0 +1,56 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: darkkhaki;
+}
+.head-line{
+    background-color: cadetblue;
+    text-align: center;
+    font-size: 55px;
+}
+.ruls{
+    color: #745911;
+    font-size: 50px;
+}
+.Main-line{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+    
+}
+.images img{
+    width: 500px;
+}
+p{
+    font-size: 20px;
+}
+.button-line{
+    text-align: center;
+    margin: auto;
+    width: 120px;
+    padding: 10px;
+    border-radius: 30px;
+    border: none;
+    font-size: 15px;
+    background-color: darkorange;
+}
+.phone{
+    width: 80%;
+    margin: auto;
+    display: flex;
+   
+
+}
+.telephone{
+    text-align: center;
+}
+.mobile img{ 
+    width: 500px;
+}
+.mobile{
+    padding: 10px;
+    text-align: left;
+    justify-content: space-around;
+}
